@@ -38,8 +38,9 @@ public class GM : MonoBehaviour {
 			if (obj != null){
 				player= obj.GetComponent<PlayerCtrl>();
 			}
-			DisplayHudData();
+			
 		}
+		DisplayHudData();
 	}
 
 	void DisplayHudData(){
