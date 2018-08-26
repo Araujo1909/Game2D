@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 50435269334830280}
   - component: {fileID: 61180976374857332}
   - component: {fileID: 114883383715125830}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Monster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55,7 +55,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 5
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
